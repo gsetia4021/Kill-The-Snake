@@ -1,0 +1,2 @@
+# Kill-The-Snake
+A snake Made of shells of many colors.  Our main Aim to kill the snake. Two Corresponding shells can not have same color , if have then those corresponding shells will be cut from the snake. If head color will hit with the same colored shell on the screen, that will cut the head of the snake and So On. If head will hit with different colored shell then that(hit) colored shell will become the head of the snake.
